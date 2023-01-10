@@ -14,4 +14,3 @@ try:
 except KeyboardInterrupt:
     print("정지")
 
-    
